@@ -12,8 +12,10 @@
 - 1.fork本项目，并clone到本地
 - 2.修改明文的gfwlist[gfwlist_decode.txt]
 - 3.bash base64.sh
+
+# 使用方法
+- 修改下方的mack-a为自己的用户名
 ```
-# 修改下方的mack-a为自己的用户名
 https://raw.githubusercontent.com/mack-a/gfwlist/master/gfwlist.txt
 ```
 
