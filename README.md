@@ -1,4 +1,4 @@
-# gfwlist
+# 自定义远程gfwlist
 - [明文gfwlist编辑规则](https://adblockplus.org/en/filter-cheatsheet)
 
 # 自动化部署
