@@ -10,11 +10,7 @@ gfwlistDecodeResult = gfwlistDecodeResult.split('');
 
 exec('git pull', (err, stdout, stderr) => {
     console.log(' ---> pull remote');
-    if (stderr) {
-        console.error('错误:', stderr);
-    } else {
-        console.error(stdout);
-    }
+    console.log(stdout);
     console.log(' ---> loading，About a minute');
     // 清空文件
     fs.writeFileSync(`${__dirname}/gfwlist.txt`, '');
@@ -28,12 +24,7 @@ exec('git pull', (err, stdout, stderr) => {
     funSubString();
     console.log(' ---> Synchronous remote')
     exec('git add . && git commit -m "feat(gfwlist):update" && git push', (err, stdout, stderr) => {
-
-        if (stderr) {
-            console.error('错误:', stderr);
-        } else {
-            console.log(stdout);
-        }
+        console.log(stdout);
         console.log(' ---> done');
     })
 })
