@@ -1,4 +1,5 @@
 #!/bin/bash
+echo " ---> pull remote"
 git pull
 cat /dev/null  > ./gfwlist.txt
 gfwResult=`cat ./gfwlist_decode.txt|base64`
