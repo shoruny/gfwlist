@@ -3682,19 +3682,6 @@ gigporno.ru
 !---GitHub---
 github.com/getlantern
 |https://gist.github.com
-!--http://cthlo.github.io/hktv
-!--hahaxixi.github.io
-!--|https://hahaxixi.github.io
-!--||haoel.github.io
-!--|http://onionhacker.github.io
-!--||rg3.github.io
-!--||sikaozhe1997.github.io
-!--||sodatea.github.io
-!--||terminus2049.github.io
-!--||toutyrater.github.io
-!--wsgzao.github.io
-!--|https://wsgzao.github.io
-.github.io
 ||github.io
 ||githubusercontent.com
 
