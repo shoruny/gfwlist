@@ -22,6 +22,7 @@
 ||godaddy.com
 
 !-- speed
+||epicgames.com
 ||github.com
 blog.v2ray-agent.com
 ||cloudflare.com
