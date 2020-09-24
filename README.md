@@ -8,7 +8,7 @@
 - 3.修改明文的gfwlist[gfwlist_decode.txt]
 - 4.node base64.js
 
-## 1.shell[Mac or linux]
+## 2.shell[Mac or linux]
 - 1.fork本项目，并clone到本地
 - 2.修改明文的gfwlist[gfwlist_decode.txt]
 - 3.bash base64.sh
