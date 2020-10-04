@@ -37,5 +37,5 @@ https://raw.githubusercontent.com/mack-a/gfwlist/master/proxy_rules.json
 # 3.Shadowrocket
 - 修改下方的mack-a为自己的用户名
 ```
-https://raw.githubusercontent.com/mack-a/gfwlist/master/Shadowrocket_proxy.json
+https://raw.githubusercontent.com/mack-a/gfwlist/master/Shadowrocket_proxy.conf
 ```
