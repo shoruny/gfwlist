@@ -168,7 +168,8 @@
       "domain:dns.la",
       "domain:godaddy.com",
       "domain:apple.com",
-      "domain:icloud.com"
+      "domain:icloud.com",
+      "domain":"idc.wiki"
     ]
   },
   "ips": {
