@@ -1,10 +1,11 @@
 {
   "author": "mack-a",
   "description": "mack-a",
-  "domainStrategy": "AsIs",
+  "domainStrategy": "IPIfNonMatch",
   "domains": {
     "block": [
-      "geosite:category-ads-all"
+      "geosite:category-ads-all",
+      "domain:sougou.com"
     ],
     "direct": [
       "geoip:cn",
@@ -168,7 +169,11 @@
       "domain:dns.la",
       "domain:godaddy.com",
       "domain:apple.com",
-      "domain:icloud.com"
+      "domain:icloud.com",
+      "domain:idc.wiki",
+      "domain:raw.githubusercontent.com",
+      "domain:qrserver.com",
+      "domain:tabbycloud.com"
     ]
   },
   "ips": {
@@ -196,7 +201,9 @@
       "91.108.56.0/24",
       "109.239.140.0/24",
       "149.154.167.0/24",
-      "149.154.175.0/24"
+      "149.154.175.0/24",
+      "103.122.119.223/22",
+      "149.154.167.220/22"
     ]
   },
   "name": "proxy_rules"
